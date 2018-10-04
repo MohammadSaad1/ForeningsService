@@ -192,6 +192,7 @@
     <Compile Include="Controllers\AktivitetsController.cs" />
     <Compile Include="Controllers\AktivitetstypesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PeopleController.cs" />
     <Compile Include="Controllers\UnderaktivitetsController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
